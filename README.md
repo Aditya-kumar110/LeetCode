@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/0001-two-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya-kumar110/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya-kumar110/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/3701-compute-alternating-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
