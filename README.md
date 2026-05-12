@@ -14,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Aditya-kumar110/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya-kumar110/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3701-compute-alternating-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
