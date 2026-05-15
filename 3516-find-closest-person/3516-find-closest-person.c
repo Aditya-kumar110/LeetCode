@@ -3,9 +3,8 @@ int findClosest(int x, int y, int z) {
     int person2 = abs(z-y);
     if(person1>person2)
         return 2;
-    else if(person1<person2)    
+    if(person1<person2)    
         return 1;
-    else 
         return 0;   
     
 }
