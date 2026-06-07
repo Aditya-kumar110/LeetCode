@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/0292-nim-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aditya-kumar110/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya-kumar110/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-kumar110/LeetCode/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
