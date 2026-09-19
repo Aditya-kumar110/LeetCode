@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aditya-kumar110/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/Aditya-kumar110/LeetCode/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya-kumar110/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/Aditya-kumar110/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-kumar110/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3668-restore-finishing-order](https://github.com/Aditya-kumar110/LeetCode/tree/master/3668-restore-finishing-order) |
+| [3945-digit-frequency-score](https://github.com/Aditya-kumar110/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Counting
 |  |
 | ------- |
