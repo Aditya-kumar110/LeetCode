@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aditya-kumar110/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya-kumar110/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/Aditya-kumar110/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-kumar110/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Aditya-kumar110/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/Aditya-kumar110/LeetCode/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
 |  |
