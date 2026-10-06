@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-kumar110/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/Aditya-kumar110/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2057-smallest-index-with-equal-value](https://github.com/Aditya-kumar110/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-kumar110/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Aditya-kumar110/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Aditya-kumar110/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [2974-minimum-number-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
