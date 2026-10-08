@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Aditya-kumar110/LeetCode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/Aditya-kumar110/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/Aditya-kumar110/LeetCode/tree/master/3110-score-of-a-string) |
 ## Bit Manipulation
