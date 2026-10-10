@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-kumar110/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aditya-kumar110/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya-kumar110/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Aditya-kumar110/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-kumar110/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2974-minimum-number-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/2974-minimum-number-game) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aditya-kumar110/LeetCode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 ## Brainteaser
 |  |
 | ------- |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 | [2974-minimum-number-game](https://github.com/Aditya-kumar110/LeetCode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -166,4 +171,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aditya-kumar110/LeetCode/tree/master/0075-sort-colors) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
