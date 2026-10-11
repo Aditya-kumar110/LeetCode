@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Aditya-kumar110/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/Aditya-kumar110/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/Aditya-kumar110/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/Aditya-kumar110/LeetCode/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/Aditya-kumar110/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya-kumar110/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Aditya-kumar110/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 ## Simulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Aditya-kumar110/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Aditya-kumar110/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Aditya-kumar110/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1590-make-sum-divisible-by-p](https://github.com/Aditya-kumar110/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Aditya-kumar110/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2784-check-if-array-is-good](https://github.com/Aditya-kumar110/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3668-restore-finishing-order](https://github.com/Aditya-kumar110/LeetCode/tree/master/3668-restore-finishing-order) |
